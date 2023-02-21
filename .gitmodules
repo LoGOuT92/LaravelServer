@@ -1,0 +1,3 @@
+[submodule "ReactClient"]
+	path = ReactClient
+	url = https://github.com/LoGOuT92/ReactClient.git
